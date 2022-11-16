@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/nightOwlProgrammer/static/css/main.0e2182cf.css",
+    "main.js": "/nightOwlProgrammer/static/js/main.7b6c6640.js",
+    "static/media/DP.jpg": "/nightOwlProgrammer/static/media/DP.cfdb17e74b607d52e23b.jpg",
+    "static/media/artechLogo.png": "/nightOwlProgrammer/static/media/artechLogo.c9084584f876ef9bbaf4.png",
+    "static/media/newsAppImage.png": "/nightOwlProgrammer/static/media/newsAppImage.705eddf71735c6f51e85.png",
+    "static/media/nightOwl.png": "/nightOwlProgrammer/static/media/nightOwl.2eafaccc36752c0918c9.png",
+    "index.html": "/nightOwlProgrammer/index.html",
+    "main.0e2182cf.css.map": "/nightOwlProgrammer/static/css/main.0e2182cf.css.map",
+    "main.7b6c6640.js.map": "/nightOwlProgrammer/static/js/main.7b6c6640.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e2182cf.css",
+    "static/js/main.7b6c6640.js"
+  ]
+}
